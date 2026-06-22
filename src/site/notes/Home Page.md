@@ -3,3 +3,5 @@
 ---
 
 # Welcome
+
+[[_Assets/Photon Fusion 2\|Photon Fusion 2]]
