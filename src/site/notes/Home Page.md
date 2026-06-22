@@ -4,5 +4,6 @@
 
 # Welcome
 
-[[_Assets/Photon Fusion 2\|Photon Fusion 2]]
+Test page
 
+[[_Assets/Photon Fusion 2\|Photon Fusion 2]]
