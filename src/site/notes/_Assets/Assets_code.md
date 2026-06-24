@@ -22,11 +22,10 @@ Utility :
 
 Visual :
 - DoTween
-- ~~Animancer~~
-- Animation Composer System
+- Animancer
+- ~~Animation Composer System~~
 - ?InTerra
 - ?Feel
 
 Network :
-- Photon/Fusion2
-- Fusion inspector
+- ?
