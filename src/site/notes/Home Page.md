@@ -4,6 +4,6 @@
 
 # Welcome
 
-Test page
+
 
 [[__Guidelines/Git/Git guideline\|Git guideline]]
