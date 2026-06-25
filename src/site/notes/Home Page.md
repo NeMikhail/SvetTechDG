@@ -4,6 +4,4 @@
 
 # Welcome
 
-
-
 [[__Guidelines/Git/Git guideline\|Git guideline]]
