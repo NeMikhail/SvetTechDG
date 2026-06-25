@@ -6,4 +6,4 @@
 
 Test page
 
-[[_Assets/Photon Fusion 2\|Photon Fusion 2]]
+[[__Guidelines/Git/Git guideline\|Git guideline]]
