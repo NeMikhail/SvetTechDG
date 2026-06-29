@@ -4,7 +4,7 @@
 
 ## 1. Установка Git на компьютер
 
-<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <video src="/Videofiles/GitGuideline/GitGuideline_Step_1.mp4" controls width="100%"></video> </details>
+<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <iframe src="https://drive.google.com/file/d/12IosDKVYiXFPS59XkMAOhxtZRYpeJ742/preview" width="640" height="480"></iframe></details>
 
 - Скачать Git с официального сайта: https://git-scm.com/downloads.
 - Установить Git с настройками по умолчанию.
@@ -29,7 +29,7 @@ git config --global --list
 
 ## 2. Генерация SSH-ключа
 
-<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <video src="/Videofiles/GitGuideline/GitGuideline_Step_2.mp4" controls width="100%"></video> </details>
+<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br><iframe src="https://drive.google.com/file/d/1teQDzRTFp7vlfbppv23bkWmwgu6QUtT4/preview" width="640" height="480"></iframe>  </details>
 
 - Подробная инструкция вынесена в отдельный guideline: [[__Guidelines/Git/Генерация SSH ключа\|Генерация SSH ключа]].
 - После генерации ключа нужно добавить публичный ключ в GitLab.
@@ -44,7 +44,7 @@ git config --global --list
 
 ## 4. Добавление SSH-ключа в GitLab
 
-<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <video src="/Videofiles/GitGuideline/GitGuideline_Step_4.mp4" controls width="100%"></video> </details>
+<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <iframe src="https://drive.google.com/file/d/1K9Vtr7PATgfISegJbZ4tGH4yN5aJLQuZ/preview" width="640" height="480"></iframe></details>
 
 - Открыть GitLab.
 - Перейти в профиль пользователя.
@@ -62,7 +62,7 @@ ssh -T git@gitlab-games.elementsoftware.ru
 
 ## 5. Выкачка проекта
 
-<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <video src="/Videofiles/GitGuideline/GitGuideline_Step_5.mp4" controls width="100%"></video> </details>
+<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br><iframe src="https://drive.google.com/file/d/1IB4CohqTiS25dtgp0HQUIMiAymWxjuLJ/preview" width="640" height="480"></iframe></details>
 
 - Открыть страницу репозитория в GitLab.
 - Скопировать SSH-ссылку на репозиторий.

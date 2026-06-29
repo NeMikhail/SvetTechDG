@@ -15,7 +15,7 @@
 
 ## Установка Unity Hub
 
-<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <video src="/Videofiles/UnityGuideline/UnityGuideline_Step_1.mp4" controls width="100%"></video> </details>
+<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br><iframe src="https://drive.google.com/file/d/13-Un1gVnPS0FFI6VBWTi9Elgi5eHg8H7/preview" width="640" height="480"></iframe></details>
 
 Unity Hub используется для установки редактора Unity, управления версиями Unity и открытия локальных проектов.
 
@@ -28,7 +28,7 @@ Unity Hub используется для установки редактора 
 
 ## Установка версии Unity
 
-<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <video src="/Videofiles/UnityGuideline/UnityGuideline_Step_2.mp4" controls width="100%"></video> </details>
+<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <iframe src="https://drive.google.com/file/d/1YxujkCRXHr8DdufUfjmtDmLV_iOSX_05/preview" width="640" height="480"></iframe></details>
 
 Проект должен открываться в Unity `6000.3.8f1`.
 
@@ -40,7 +40,7 @@ Unity Hub используется для установки редактора 
 
 ## Загрузка проекта из Git
 
-<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <video src="/Videofiles/UnityGuideline/UnityGuideline_Step_3.mp4" controls width="100%"></video> </details>
+<details> <summary>🎬 Видео-инструкция к этому этапу</summary> <br> <iframe src="https://drive.google.com/file/d/1fR4WGOlozuC8w0ClCKHOQLb6iEn6R3Kk/preview" width="640" height="480"></iframe></details>
 
 Перед открытием проекта в Unity необходимо получить актуальную копию репозитория.
 
